@@ -1,5 +1,7 @@
 # ian-santos / README.md
 
+Adquirindo conhecimento no mundo da tecnologia 👨‍💻
+
 <p align="center" style="border-radius:100%"></p>
 
 <div align="center">
