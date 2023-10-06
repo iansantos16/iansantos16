@@ -1,6 +1,9 @@
-# ian-santos / README.md
+Olá! eu sou o Ian Santos, aprendiz de desenvolvimento de software!
 
 Adquirindo conhecimento no mundo da tecnologia 👨‍💻
+
+🔭 Apaixonado por programação
+
 
 <p align="center" style="border-radius:100%"></p>
 
