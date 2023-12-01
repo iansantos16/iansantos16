@@ -1,6 +1,10 @@
 👨‍💻 Olá! eu sou o Ian Santos, aprendiz de desenvolvimento de software!
+👨‍💻 Hello! I'm Ian Santos, software development apprentice!
+
 
 🔭 Apaixonado por programação
+🔭 Passionate about programming
+
 
 <p align="center" style="border-radius:100%"></p>
 
