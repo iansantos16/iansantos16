@@ -1,8 +1,7 @@
-👨‍💻 Olá! eu sou o Ian Santos, aprendiz de desenvolvimento de software!
 👨‍💻 Hello! I'm Ian Santos, software development apprentice!
 
+📚 React, Node and AWS
 
-🔭 Apaixonado por programação
 🔭 Passionate about programming
 
 
@@ -19,7 +18,7 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
  
-  <img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="github" height="30" width="40" src="https://www.itexperts.com.br/wp-content/uploads/2022/05/30115906/AWS-Cloud-1.png">
   
 </div><br>
 
