@@ -25,7 +25,7 @@
 <div align="center">
 
   <a href="https://www.facebook.com/ian.santos.7121614/?locale=pt_BR" target="_blank"><img src="https://img.shields.io/badge/Instagram-1877F2?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/ian-santos-07890428a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/ian_osantos/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 
