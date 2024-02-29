@@ -1,6 +1,6 @@
 👨‍💻 Hello! I'm Ian Santos, software development apprentice!
 
-📚 React, Node, CSS, HMTL and AWS
+📚 REACT, NODE, CSS, HMTL and AWS
 
 🔭 Passionate about programming
 
