@@ -4,5 +4,5 @@
 
 🔭 Passionate about programming
 
-WEB [PORTFOLIO]([url](https://portfolio-original-inky.vercel.app/)https://portfolio-original-inky.vercel.app/)
+🌏 WEB [PORTFOLIO](https://portfolio-original-inky.vercel.app/)
 
