@@ -4,5 +4,5 @@
 
 🔭 Passionate about programming
 
-🌏 WEB [PORTFOLIO](https://portfolio-original-picw.vercel.app/)
+🌏 WEB [PORTFOLIO](https://portfolio-ian-gamma.vercel.app/)
 
